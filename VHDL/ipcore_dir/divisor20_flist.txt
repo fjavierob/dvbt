@@ -1,0 +1,13 @@
+# Output products list for <divisor20>
+_xmsgs\pn_parser.xmsgs
+divisor20.asy
+divisor20.gise
+divisor20.ngc
+divisor20.sym
+divisor20.vhd
+divisor20.vho
+divisor20.xco
+divisor20.xise
+divisor20_flist.txt
+divisor20_readme.txt
+divisor20_xmdf.tcl

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Javi/Desktop/Estimador3/tb_ecualizador_isim_beh.exe" -prj "C:/Users/Javi/Desktop/Estimador3/tb_ecualizador_beh.prj" "work.tb_ecualizador" 

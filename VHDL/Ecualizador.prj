@@ -1,0 +1,7 @@
+vhdl work "ipcore_dir/datos2k.vhd"
+vhdl work "DEF.vhd"
+vhdl work "prbs.vhd"
+vhdl work "ipcore_dir/divisor20.vhd"
+vhdl work "Intelpoladol.vhd"
+vhdl work "FSM.vhd"
+vhdl work "Ecualizador.vhd"
